@@ -1,6 +1,6 @@
 ### Olá, eu sou Patrick Cavalcante!
 
-- 🔭 Hoje trabalhando com a ferramenta de Front-End Fluig.
+- 🔭 Atualmente trabalho como desenvolvedor com foco no desenvolvimento web, utilizando JavaScript e JQuery na solução Fluig
 - 🚀 Estudando Java e Spring Boot com Angular.
 - 📈 Conhecimento avançado em banco de dados nas tecnologias SQL Server, Oracle, MySql e Informix.
 
